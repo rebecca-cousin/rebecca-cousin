@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rebecca-cousin](https://github.com/rebecca-cousin)
 
-- connect with me [linkdin.com/in/rebecca-cousin](linkdin.com/in/rebecca-cousin)
-
 - 💬 Ask me about **software design and project ideas**
 
 - 📫 How to reach me **rebecousin@gmail.com**
