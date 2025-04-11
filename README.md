@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rebecousin@gmail.com**
 
-- connect with me [linkdin.com/in/rebecca-cousin](linkdin.com/in/rebecca-cousin)
+- connect with me [linkdin.com/in/rebecca-cousin](www.linkedin.com/in/rebecca-cousin)
 
 <p align="left">
 </p>
