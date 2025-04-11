@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm rebecca cousin</h1>
 <h3 align="center">A passionate developer from nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebecca-cousin" alt="rebecca-cousin" /></a> </p>
 
 - 🔭 I’m currently working on [Bookworm's Companion](https://github.com/rebecca-cousin/Bookworm-s-Companions.git)
 
-- 🌱 I’m currently learning **java, springboot, c++, c#**
+- 🌱 I’m currently learning **java, spring, c++ and c#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rebecca-cousin](https://github.com/rebecca-cousin)
 
