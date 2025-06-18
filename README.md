@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bookworm's Companion](https://github.com/rebecca-cousin/Bookworm-s-Companions.git)
 
-- 🌱 I’m currently learning **java, springboot, c++, c#**
+- 🌱 I’m currently learning **HTML, Css, javascript, java, springboot, c++ and c#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rebecca-cousin](https://github.com/rebecca-cousin)
 
