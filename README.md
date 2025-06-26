@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rebecca cousin</h1>
 <h3 align="center">A passionate developer from nigeria</h3>
 
-- 🔭 I’m currently working on [Bookworm's Companion](https://github.com/rebecca-cousin/Bookworm-s-Companions.git)
+- 🔭 I’m currently working on [crowd sourced WiFi app](https://github.com/rebecca-cousin/crowd-source-wifi-map-app)
 
 - 🌱 I’m currently learning **HTML, Css, javascript, java, springboot, c++ and c#**
 
