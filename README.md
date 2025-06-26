@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [crowd sourced WiFi app](https://github.com/rebecca-cousin/crowd-source-wifi-map-app)
 
-- 🌱 I’m currently learning **HTML, Css, javascript, java, springboot, c++ and c#**
+- 🌱 I’m currently learning **HTML, Css, javascript, java, springboot, tailwind css**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rebecca-cousin](https://github.com/rebecca-cousin)
 
